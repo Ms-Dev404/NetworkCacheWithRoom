@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="listing_header_name">APOD Listing</string>
+    <string name="detail_header_name">APOD Details</string>
+</resources>
